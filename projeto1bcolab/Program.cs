@@ -94,7 +94,7 @@ namespace projeto1bcolab
 
             //Lucas
             PC programado = new PC();
-            programado.marca = "queijo"; 
+            programado.marca = "Queijo prato";
             programado.modelo = "presunto";
             Console.WriteLine("Pc:" + programado.marca);
             Console.WriteLine("Pc:" + programado.modelo);
