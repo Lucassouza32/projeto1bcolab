@@ -92,6 +92,13 @@ namespace projeto1bcolab
             pessoa.acessorios = "pulseira";
             Console.WriteLine("acessorio" +pessoa.acessorios);
 
+            //Lucas
+            PC programado = new PC();
+            programado.marca = "queijo";
+            programado.modelo = "presunto";
+            Console.WriteLine("Pc:" + programado.marca);
+            Console.WriteLine("Pc:" + programado.modelo);
+
             //Larissa
             animal gato = new animal();
             gato.nome = "start";
